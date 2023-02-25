@@ -27,4 +27,4 @@ const SERVER_PASSWORD = "osdfghfkj221"
 console.log(SERVER_PASSWORD);
 
 //SERVER_PASSWORD="1234" //const degismez.
-//console.log(SERVER_PASSWORD) 
+//mlamaconsole.log(SERVER_PASSWORD) 
