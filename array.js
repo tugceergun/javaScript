@@ -1,7 +1,8 @@
+//Diziler nesne(object) tipindedir.
 
 let domain="kodluyoruz"
 let isActive=false
-let items =[1, 2, 3, isActive, domain]
+let items =[1, 2, 3, isActive, domain] //dizi olusturduk.
 console.log(items)
 
 let emptyArray = [] //bos list
